@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.viewer-window {
+  position: relative;
+  width: 70vw;
+  height: 60vh;
+}
